@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyRecipes</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login1">Login</string>
+    <string name="register1">Register</string>
+    <string name="register">Don\'t have an account? Sign up.</string>
+    <string name="enter_info_text">Enter the following information:</string>
+    <string name="Name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="email2">Confirm email</string>
+    <string name="password2">Confirm your password</string>
+    <string name="gender">Gender:</string>
+    <string name="gender_f">Female</string>
+    <string name="gender_m">Male</string>
+    <string name="save">Register</string>
+    <string name="register_details">Register details</string>
+    <string name="enter_name">Enter name!</string>
+    <string name="enter_surname">Enter surname!</string>
+    <string name="enter_email">Enter a valid email!</string>
+    <string name="email_not_matching">Emails are not matching!</string>
+    <string name="password_criteria">The password must contain at least 6 characters!</string>
+    <string name="enter_username">Enter a username!</string>
+    <string name="passwords_not_matching">The passwords are not matching!</string>
+    <string name="enter_password">Enter a password!</string>
+    <string name="invalid_registration">Invalid registration!</string>
+    <string name="my_profile">My profile</string>
+    <string name="personal_info">Personal information:</string>
+    <string name="name_surname">Name and surname</string>
+    <string name="my_recipes">My recipes</string>
+</resources>
